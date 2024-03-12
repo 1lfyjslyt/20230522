@@ -2,6 +2,11 @@
 
 int main()
 {
-	printf("hhhhhh");
+	printf("hahaha");
+	printf("bababa");
+
+
+
+	printf("fjfj");
 	return 0;
 }
